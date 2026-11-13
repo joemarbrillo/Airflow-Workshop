@@ -3,6 +3,9 @@
 > git remote -v
 > git add .
 > git commit -m "Initial commit"
+> git branch -M main
+> git pull origin main --allow-unrelated-histories
 
 > pip install apache-airflow pyspark duckdb --constraint "https://raw.githubusercontent.com/apache/airflow/constraints-3.3.2/constraints-3.13.txt"
 
+Create a fake API for data simulation:
