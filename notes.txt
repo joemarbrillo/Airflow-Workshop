@@ -1,0 +1,8 @@
+> git init
+> git remote add https://github.com/joemarbrillo/Learn-Airflow.git
+> git remote -v
+> git add .
+> git commit -m "Initial commit"
+
+> pip install apache-airflow pyspark duckdb --constraint "https://raw.githubusercontent.com/apache/airflow/constraints-3.3.2/constraints-3.13.txt"
+

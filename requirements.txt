@@ -1,0 +1,3 @@
+pyspark
+duckdb
+apache-airflow

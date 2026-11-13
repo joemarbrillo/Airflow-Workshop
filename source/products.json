@@ -1,0 +1,242 @@
+[
+  {
+    "sku": "SKU-001",
+    "name": "Phones item 1",
+    "category": "Phones",
+    "price": 643.11
+  },
+  {
+    "sku": "SKU-002",
+    "name": "Audio item 2",
+    "category": "Audio",
+    "price": 184.16
+  },
+  {
+    "sku": "SKU-003",
+    "name": "Accessories item 3",
+    "category": "Accessories",
+    "price": 668.9
+  },
+  {
+    "sku": "SKU-004",
+    "name": "Gaming item 4",
+    "category": "Gaming",
+    "price": 785.23
+  },
+  {
+    "sku": "SKU-005",
+    "name": "Laptops item 5",
+    "category": "Laptops",
+    "price": 179.03
+  },
+  {
+    "sku": "SKU-006",
+    "name": "Phones item 6",
+    "category": "Phones",
+    "price": 116.48
+  },
+  {
+    "sku": "SKU-007",
+    "name": "Audio item 7",
+    "category": "Audio",
+    "price": 315.46
+  },
+  {
+    "sku": "SKU-008",
+    "name": "Accessories item 8",
+    "category": "Accessories",
+    "price": 226.28
+  },
+  {
+    "sku": "SKU-009",
+    "name": "Gaming item 9",
+    "category": "Gaming",
+    "price": 806.12
+  },
+  {
+    "sku": "SKU-010",
+    "name": "Laptops item 10",
+    "category": "Laptops",
+    "price": 608.48
+  },
+  {
+    "sku": "SKU-011",
+    "name": "Phones item 11",
+    "category": "Phones",
+    "price": 712.28
+  },
+  {
+    "sku": "SKU-012",
+    "name": "Audio item 12",
+    "category": "Audio",
+    "price": 643.34
+  },
+  {
+    "sku": "SKU-013",
+    "name": "Accessories item 13",
+    "category": "Accessories",
+    "price": 166.69
+  },
+  {
+    "sku": "SKU-014",
+    "name": "Gaming item 14",
+    "category": "Gaming",
+    "price": 108.88
+  },
+  {
+    "sku": "SKU-015",
+    "name": "Laptops item 15",
+    "category": "Laptops",
+    "price": 317.85
+  },
+  {
+    "sku": "SKU-016",
+    "name": "Phones item 16",
+    "category": "Phones",
+    "price": 684.62
+  },
+  {
+    "sku": "SKU-017",
+    "name": "Audio item 17",
+    "category": "Audio",
+    "price": 170.17
+  },
+  {
+    "sku": "SKU-018",
+    "name": "Accessories item 18",
+    "category": "Accessories",
+    "price": 661.1
+  },
+  {
+    "sku": "SKU-019",
+    "name": "Gaming item 19",
+    "category": "Gaming",
+    "price": 85.1
+  },
+  {
+    "sku": "SKU-020",
+    "name": "Laptops item 20",
+    "category": "Laptops",
+    "price": 117.31
+  },
+  {
+    "sku": "SKU-021",
+    "name": "Phones item 21",
+    "category": "Phones",
+    "price": 329.74
+  },
+  {
+    "sku": "SKU-022",
+    "name": "Audio item 22",
+    "category": "Audio",
+    "price": 314.04
+  },
+  {
+    "sku": "SKU-023",
+    "name": "Accessories item 23",
+    "category": "Accessories",
+    "price": 24.21
+  },
+  {
+    "sku": "SKU-024",
+    "name": "Gaming item 24",
+    "category": "Gaming",
+    "price": 824.53
+  },
+  {
+    "sku": "SKU-025",
+    "name": "Laptops item 25",
+    "category": "Laptops",
+    "price": 785.79
+  },
+  {
+    "sku": "SKU-026",
+    "name": "Phones item 26",
+    "category": "Phones",
+    "price": 486.76
+  },
+  {
+    "sku": "SKU-027",
+    "name": "Audio item 27",
+    "category": "Audio",
+    "price": 267.87
+  },
+  {
+    "sku": "SKU-028",
+    "name": "Accessories item 28",
+    "category": "Accessories",
+    "price": 169.47
+  },
+  {
+    "sku": "SKU-029",
+    "name": "Gaming item 29",
+    "category": "Gaming",
+    "price": 715.77
+  },
+  {
+    "sku": "SKU-030",
+    "name": "Laptops item 30",
+    "category": "Laptops",
+    "price": 500.74
+  },
+  {
+    "sku": "SKU-031",
+    "name": "Phones item 31",
+    "category": "Phones",
+    "price": 35.17
+  },
+  {
+    "sku": "SKU-032",
+    "name": "Audio item 32",
+    "category": "Audio",
+    "price": 694.11
+  },
+  {
+    "sku": "SKU-033",
+    "name": "Accessories item 33",
+    "category": "Accessories",
+    "price": 670.61
+  },
+  {
+    "sku": "SKU-034",
+    "name": "Gaming item 34",
+    "category": "Gaming",
+    "price": 557.26
+  },
+  {
+    "sku": "SKU-035",
+    "name": "Laptops item 35",
+    "category": "Laptops",
+    "price": 404.67
+  },
+  {
+    "sku": "SKU-036",
+    "name": "Phones item 36",
+    "category": "Phones",
+    "price": 258.32
+  },
+  {
+    "sku": "SKU-037",
+    "name": "Audio item 37",
+    "category": "Audio",
+    "price": 334.57
+  },
+  {
+    "sku": "SKU-038",
+    "name": "Accessories item 38",
+    "category": "Accessories",
+    "price": 819.73
+  },
+  {
+    "sku": "SKU-039",
+    "name": "Gaming item 39",
+    "category": "Gaming",
+    "price": 667.08
+  },
+  {
+    "sku": "SKU-040",
+    "name": "Laptops item 40",
+    "category": "Laptops",
+    "price": 802.82
+  }
+]
