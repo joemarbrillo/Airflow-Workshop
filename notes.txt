@@ -7,5 +7,17 @@
 > git pull origin main --allow-unrelated-histories
 
 > pip install apache-airflow pyspark duckdb --constraint "https://raw.githubusercontent.com/apache/airflow/constraints-3.3.2/constraints-3.13.txt"
+> pip install nbformat
+> pip install papermill
+
+Papermill is used to run the notebook with parameter(s) passed to the command.
+
+Run create tables:
+> papermill .\run_sql.ipynb output_run_sql.ipynb -p sql "sql/staging.sql"
+
+Run an sql query:
+> papermill .\run_sql.ipynb run_output_sql2.ipynb -p sql "select * from staging.customers"
 
 Create a fake API for data simulation:
+
+Ended 

@@ -1,0 +1,1 @@
+SELECT COUNT(*) - COUNT(email) AS missing_emails FROM staging.customers;
