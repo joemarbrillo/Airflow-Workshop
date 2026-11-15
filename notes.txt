@@ -20,4 +20,28 @@ Run an sql query:
 
 Create a fake API for data simulation:
 
-Ended 
+Add hadoop home:
+import os
+import glob
+
+os.environ["HADOOP_HOME"] = "D:\\hadoop"
+os.environ["PATH"] += os.pathsep + "D:\\hadoop\\bin"
+
+Run the transform job:
+> cd job
+> papermill .\transform.ipynb .\output_run01.ipynb -p day "2026-11-01"
+> papermill .\transform.ipynb .\output_run01.ipynb -p day "all"
+> papermill .\run_sql.ipynb ./output_run_sql.ipynb -p sql "sql/warehouse.sql
+> papermill .\run_sql.ipynb ./output_run_sql.ipynb -p sql "select customer_key=0 AS unknown_customer, count(*) as lines, sum(amount) as amount from wh.fact_sales group by 1;"
+
+Run airflow migrate
+> airflow db migrate
+
+Check for status of run:
+> airflow tasks states-for-dag-run shopflow <date> -o plain
+
+Check the status at quality level:
+> papermill dq.ipynb output_run_dq.ipynb
+
+
+Next session: 1:42:00

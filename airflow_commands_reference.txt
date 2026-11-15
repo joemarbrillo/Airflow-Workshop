@@ -1,0 +1,2 @@
+> airflow tasks states-for-dag-run [app] <params> -o plain
+> 
